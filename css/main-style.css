@@ -1,0 +1,41 @@
+/* Main style */
+
+body {
+    background: #ffffff; //#3681c1; //#617798; 
+    padding: 15px 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    font-weight:400;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+}
+
+#calculator {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    border: solid 1px #cccccc;
+    box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+}
+
+.desmosRed {
+    color: #C0504D;
+}
+.desmosBlue {
+    color: #4F81BD;
+}
+.desmosGreen {
+    color: #9BBB59;
+}
+.desmosPurple {
+    color: #8064A2;
+}
+.desmosOrange {
+    color: #F79646;
+}
+.desmosBlack {
+    color: #000000;
+}
